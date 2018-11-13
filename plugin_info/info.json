@@ -9,8 +9,8 @@
 	"hasDependency" : false,
 	"hasOwnDeamon" : false,
 	"maxDependancyInstallTime" : 0,
-	"changelog" : "http://home.ansel-fr.eu:81/plugins/DenonAVC/docs/fr_FR/changelog.md",
-	"documentation" : "http://home.ansel-fr.eu:81/plugins/DenonAVC/docs/fr_FR",
+	"changelog" : "https://github.com/Cricri67/Jeedom-DenonAVC/blob/master/docs/fr_FR/changelog.md",
+	"documentation" : "https://github.com/Cricri67/Jeedom-DenonAVC/blob/master/docs/fr_FR/index.md",
 	"link" : {
 		"forum" : "Lien vers le forum",
 		"video" : "Lien vers une video"
