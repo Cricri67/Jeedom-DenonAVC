@@ -1,0 +1,20 @@
+{
+	"id" : "DenonAVC",
+	"name" : "Denon AVC Amplificator",
+	"description" : "Plugin pour piloter les amplificateurs AVC",
+	"licence" : "AGPL",
+	"author" : "c.ansel",
+	"require" : "3.0",
+	"category" : "multimedia",
+	"hasDependency" : false,
+	"hasOwnDeamon" : false,
+	"maxDependancyInstallTime" : 0,
+	"changelog" : "http://home.ansel-fr.eu:81/plugins/DenonAVC/docs/fr_FR/changelog.md",
+	"documentation" : "http://home.ansel-fr.eu:81/plugins/DenonAVC/docs/fr_FR",
+	"link" : {
+		"forum" : "Lien vers le forum",
+		"video" : "Lien vers une video"
+	},
+	"language" : ["fr_FR"],
+	"compatibility" : ["miniplus","smart","rpi","docker","diy","mobile"]
+}
