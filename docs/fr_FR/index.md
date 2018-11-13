@@ -23,7 +23,7 @@ Plugin pour commander les ampli Denon série AVC via Jeedom.
 Dashboard
 =======================
 
-![Visuel du dashboard](../assets/Dashboard.png "Visuel du dashboard")
+![Visuel du dashboard](../assets/images/Dashboard.png "Visuel du dashboard")
 
 Configuration du plugin
 =======================
