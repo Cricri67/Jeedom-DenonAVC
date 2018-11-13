@@ -51,3 +51,6 @@ La configuration des équipements Denon est accessible à partir du menu *Plugin
 
 Les commandes de bases sont générées automatiquement 
 
+### Liste des versions
+
+*[Voir la liste des versions](changelog.md)*
