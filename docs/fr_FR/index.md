@@ -21,7 +21,7 @@ Plugin pour commander les ampli Denon série AVC via Jeedom.
 - Probablement d'autres modèles Denon
 
 Dashboard
-=======================
+=========
 
 ![Visuel du dashboard](../assets/images/Dashboard.png "Visuel du dashboard")
 
@@ -38,10 +38,8 @@ La configuration des équipements Denon est accessible à partir du menu *Plugin
 ### Onglet Equipement:
 
 -   **Nom de l’équipement Denon** : nom de votre équipement (ex A11XV),
--   **Objet parent** : indique l’objet parent auquel appartient
-    l’équipement,
--   **Catégorie** : les catégories de l’équipement (il peut appartenir à
-    plusieurs catégories),
+-   **Objet parent** : indique l’objet parent auquel appartient l’équipement,
+-   **Catégorie** : les catégories de l’équipement (il peut appartenir à plusieurs catégories),
 -   **Activer** : permet de rendre votre équipement actif,
 -   **Visible** : rend votre équipement visible sur le dashboard,
 -   **Adresse IP** : Adresse IP de l’ampli.
